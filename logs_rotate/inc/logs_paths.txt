@@ -1,0 +1,4 @@
+/var/log/archives|/archives/logs/prod/syslogs
+/var/log/audit/archives|/archives/logs/prod/auditlogs
+/u01/wildfly/standalone/log/archives|/archives/wildfly/prod
+/u01/wildfly/standalone/log/phx/archives|/archives/wildfly/prod
